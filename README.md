@@ -13,14 +13,11 @@ Currently exploring research-oriented development through internships at [LIRMM]
 ---
 
 ### Tech Stack
-Languages: Python, Java, OCaml, JavaScript, C/C++
-Tools: Git, Linux, VSCode
-Libraries: NumPy, matplotlib, CustomTkinter
-Practices: Agile/Scrum, TDD, Formal Verification
-```
 
-**Regular use:** Git, Linux, matplotlib, NumPy, CustomTkinter  
-**Methodologies:** Agile/Scrum, Test-Driven Development, Formal Methods
+**Languages:** Python, Java, OCaml, JavaScript, C/C++  
+**Tools:** Git, Linux, VSCode  
+**Libraries:** NumPy, matplotlib, CustomTkinter  
+**Practices:** Agile/Scrum, TDD, Formal Verification
 
 ---
 
