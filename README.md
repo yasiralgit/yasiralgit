@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Salut, je suis Yasir AL-YOUSSFI
+# 👋 Salut, je m'appelle Yasir Al-Youssfi
 
 ### 🎓 Étudiant Ingénieur en Informatique @ INSA Lyon | 🔬 Passionné de Recherche & Algorithmique
 
