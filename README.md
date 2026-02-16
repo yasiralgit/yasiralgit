@@ -1,130 +1,53 @@
-<div align="center">
-  
-# 👋 Salut, je m'appelle Yasir Al-Youssfi
+## Hi, I'm Yasir 👋
 
-### 🎓 Étudiant Ingénieur en Informatique @ INSA Lyon | 🔬 Passionné de Recherche & Algorithmique
+I'm a third-year Computer Science student at **INSA Lyon**, with a strong focus on algorithms, formal logic, and software development. Previously ranked as **top student** across three consecutive semesters at the University of Montpellier.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-al-youssfi-747742384/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasiralyoussfi@hotmail.com)
+Currently exploring research-oriented development through internships at [LIRMM](https://www.lirmm.fr/), where I've worked on genomic data analysis pipelines and formal verification tools.
 
-</div>
+### What I'm working on
 
----
-
-## 🚀 À propos de moi
-
-- 🎯 **Actuellement** : 3ème année cycle ingénieur INSA Lyon
-- 🏆 **Major de promotion** sur 3 semestres consécutifs (Université de Montpellier)
-- 🔬 **Expérience** : 2 stages recherche au LIRMM (Python, OCaml)
-- 💡 **Intérêts** : Algorithmique, Logique formelle, Data Science, Développement logiciel
-- 🎮 **Compétitions** : 60ème/800 au Match'Up avec INSAlgo
-- 🌱 **En train d'apprendre** : Génie logiciel, Structures de données avancées
+- Building reliable software with clean architecture and proven correctness
+- Competitive programming (60th/800 at Match'Up)
+- Contributing to algorithmic competitions as part of INSAlgo
 
 ---
 
-## 🛠️ Technologies & Outils
+### Languages & Tools
 
-### Langages de programmation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+```text
+Python      ████████████████████░   OCaml
+Java        ████████████████░░░░░   C/C++
+JavaScript  ████████████░░░░░░░░░   SQL
+```
 
-### Outils & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Bibliothèques & Frameworks
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Regular use:** Git, Linux, matplotlib, NumPy, CustomTkinter  
+**Methodologies:** Agile/Scrum, Test-Driven Development, Formal Methods
 
 ---
 
-## 🌟 Projets Phares
+### Featured Projects
 
-### 🧬 [Pipeline d'Analyse Génomique](https://github.com/yasiralgit/genomic-analysis-pipeline)
-> **Stage LIRMM** · Python · Data Science
+**[Genomic Analysis Pipeline](https://github.com/yasiralgit/genomic-analysis-pipeline)**  
+Python pipeline for k-mer based genomic analysis with GUI (CustomTkinter) and interactive visualizations. Achieved 40% performance optimization through algorithm improvements.
 
-Développement d'un pipeline complet pour l'analyse de données génomiques par k-mers avec interface graphique (CustomTkinter) et visualisations interactives (matplotlib).
+**[Logic Verification Tool](https://github.com/yasiralgit/logic-verification-tool)**  
+OCaml tool for semantic web database consistency checking with formal correctness proofs. Autonomous project management from specification to validated delivery.
 
-**Points clés :**
-- ⚡ Optimisation des performances (-40%)
-- 🎨 Interface utilisateur intuitive
-- 📊 Visualisations scientifiques avancées
-- 🧩 Architecture modulaire et maintenable
+**[Competitive Programming Solutions](https://github.com/yasiralgit/competitive-programming)**  
+Collection of optimized solutions for algorithmic competitions (SWERC, Match'Up). Focus on graphs, dynamic programming, and advanced data structures.
 
 ---
 
-### ✅ [Outil de Vérification Logique](https://github.com/yasiralgit/logic-verification-tool)
-> **Stage LIRMM** · OCaml · Logique formelle
+### GitHub Stats
 
-Création d'un outil de vérification pour bases de données du web sémantique avec démonstration mathématique de correction.
+![](https://github-readme-stats.vercel.app/api?username=yasiralgit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-**Points clés :**
-- 🔐 Preuves formelles de correction
-- 🌐 Application au web sémantique
-- 📝 Documentation technique complète
-- 🎯 Gestion autonome du projet
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasiralgit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ---
 
-### 🏆 [Solutions Algorithmiques - Compétitions](https://github.com/yasiralgit/competitive-programming)
-> Algorithmique · C++ · Python
+### Connect
 
-Collection de solutions optimisées pour compétitions d'algorithmique (SWERC, Match'Up, etc.).
+[LinkedIn](https://www.linkedin.com/in/yasir-al-youssfi-747742384/) • [Email](mailto:yasiralyoussfi@hotmail.com)
 
-**Points clés :**
-- 🧠 Algorithmes avancés (graphes, DP, structures de données)
-- ⏱️ Optimisation temporelle et spatiale
-- 📚 Documentation pédagogique
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasiralgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasiralgit&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasiralgit&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Formation & Associations
-
-- 🏫 **INSA Lyon** · Cycle Ingénieur Informatique (2025-2028)
-- 🎓 **Université de Montpellier** · Licence Informatique (2023-2025) - Major de promotion
-- 🔬 **INSAlgo** · Organisation du SWERC (compétition internationale)
-- 💼 **AEDI** · Responsable financier - Organisation d'événements
-
----
-
-## 📫 Me contacter
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-al-youssfi-747742384/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasiralyoussfi@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasiralgit)
-
-📍 **Lyon, France**
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=yasiralgit&color=blueviolet&style=flat-square)
-
-</div>
+Currently based in Lyon, France. Open to internship opportunities (9-12 weeks) in software development.
