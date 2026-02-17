@@ -33,12 +33,6 @@ OCaml tool for semantic web database consistency checking with formal correctnes
 Collection of optimized solutions for algorithmic competitions (SWERC, Match'Up). Focus on graphs, dynamic programming, and advanced data structures.
 
 ---
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=yasiralgit&count_private=true&show_icons=true&theme=dark&hide_border=true)
----
-
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/yasir-al-youssfi-747742384/) • [Email](mailto:yasiralyoussfi@hotmail.com)
