@@ -1,22 +1,12 @@
-## Hi, I'm Yasir 👋
+### 👨‍💻 Yasir Al-Youssfi | ML & AI Safety Engineer
+*Engineering the intersection of Deep Tech, Healthcare, and Corporate Strategy (INSA Lyon CS)*
 
-I'm a third-year Computer Science student at **INSA Lyon**, with a strong focus on algorithms, formal logic, and software development. Previously ranked as **top student** across three consecutive semesters at the University of Montpellier.
+🔒 **Note on Git Activity:** 
+The vast majority of my architecture and research (Inria, LIRMM) involves highly sensitive clinical data, genomic pipelines, and national compliance initiatives (PANAME / CNIL / ANSSI). Consequently, my core daily commits and CI/CD pipelines are hosted on **private institutional GitLab instances** to strictly enforce RGPD and data confidentiality.
 
-Currently exploring research-oriented development through internships at [LIRMM](https://www.lirmm.fr/), where I've worked on genomic data analysis pipelines and formal verification tools.
+### 🔬 Core Expertise
+*   **Privacy-Preserving AI:** RAG pipelines, LLM auditing, Membership Inference Attacks (MIA).
+*   **Data Architecture:** High-volume ETL pipelines, biological data processing (Genomics).
+*   **Infrastructure:** Python, PyTorch, FAISS, Grid'5000 (HPC), OCaml.
 
-### What I'm working on
-
-- Building reliable software with clean architecture and proven correctness
-- Competitive programming (60th/800 at Match'Up)
-- Contributing to algorithmic competitions as part of INSAlgo
-
----
-
-### Tech Stack
-
-**Languages:** Python, Java, OCaml, JavaScript, C/C++  
-**Tools:** Git, Linux, VSCode  
-**Libraries:** NumPy, matplotlib, CustomTkinter  
-**Practices:** Agile/Scrum, TDD, Formal Verification
-
----
+📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/yasir-al-youssfi-747742384/)**
